@@ -1,7 +1,6 @@
 # MyIsecRepo
 
 - [Cadeiras](#cadeiras)
-- [Repositórios Geral](#repositórios-geral)
 
 # Cadeiras
 
@@ -19,11 +18,9 @@ Trabalhos e recursos por ano e unidade curricular
     - [CR - Conhecimento e Raciocínio](#cr---conhecimento-e-raciocínio)
     - [SO - Sistemas Operativos](#so---sistemas-operativos)
     - [IIA - Introdução à Inteligência Artificial](#iia---introdução-à-inteligência-artificial)
-    - [SI - Sistemas de Informação](#si---sistemas de informação)
     - [ID - Integração de dados](#id---integração-de-dados)
     - [AABD - Arquitetura e Administração de Bases de Dados](#aabd---arquitetura-e-administração-de-bases-de-dados)
   - [3º Ano](#3º-ano)
-    - [SI2 - Sistemas de Informação 2](#si2---sistemas de informação 2)
     - [PWEB - Programação WEB](#pweb---programação-web)
 
 ---
