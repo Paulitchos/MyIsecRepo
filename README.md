@@ -110,7 +110,7 @@ Trabalhos
 
 Recursos
 
--[AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
+- [AABD-Fichas Práticas 21/22](https://github.com/Paulitchos/AABD_FichasPraticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
 
 ## 3º Ano
 
