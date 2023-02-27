@@ -100,7 +100,7 @@ Trabalhos
 ### ID - Integração de dados
 
 Trabalhos
-- [CitiesOfTheWorld](https://github.com/Nun0Santos/CitiesOfTheWorld) feito por [Nuno Santos](https://github.com/Nun0Santos) em 2021/2022
+- 
 
 ### AABD - Arquitetura e Administração de Bases de Dados
 
