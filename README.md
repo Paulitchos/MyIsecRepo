@@ -79,7 +79,7 @@ Trabalhos
 ### CR - Conhecimento e Raciocínio
 
 Trabalhos
-- [Shape-Recognition-Network](https://github.com/Paulitchos/ShapeClassification-CR) feito por [Paulitchos](https://github.com/Paulitchos) & [Nuno Santos](https://github.com/Nun0Santos) em 2021/22
+- [Shape-Recognition-Network](https://github.com/Paulitchos/ShapeClassification-CR) feito por [Paulitchos](https://github.com/Paulitchos) & [Pedro Nogueira](https://github.com/pmsnnogueira) em 2021/22
 
 Recursos
 
