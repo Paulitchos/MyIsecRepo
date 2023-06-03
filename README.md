@@ -1,7 +1,5 @@
 # MyIsecRepo
 
-- [Cadeiras](#cadeiras)
-
 # Cadeiras
 
 Trabalhos e recursos por ano e unidade curricular
