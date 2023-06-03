@@ -129,4 +129,4 @@ Trabalhos
 ### SI2 - Sistemas de Informação II
 
 Trabalhos
--  [Bitcoin Regression Guesser](https://github.com/Paulitchos/SI_2_TP) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
+-  [Data_Mining/DataWarehouses](https://github.com/Paulitchos/SI_2_TP) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
