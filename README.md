@@ -63,7 +63,7 @@ Recursos
 ### GES - Gestão
 
 Trabalhos
--[Gaming Center](https://github.com/Paulitchos/Gestao-P) feito por [Paulitchos](https://github.com/Paulitchos) & [Roberto Tarta](https://github.com/RobertoTarta), [Sérgio Costa](https://github.com/serac01), [Bruno Bebiano](https://github.com/brunobebiano) &  em 2021/2022
+- [Gaming Center](https://github.com/Paulitchos/Gestao-P) feito por [Paulitchos](https://github.com/Paulitchos) & [Roberto Tarta](https://github.com/RobertoTarta), [Sérgio Costa](https://github.com/serac01), [Bruno Bebiano](https://github.com/brunobebiano) &  em 2021/2022
 ---
 
 ## 2º Ano
