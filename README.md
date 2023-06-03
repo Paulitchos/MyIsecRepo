@@ -54,7 +54,7 @@ Trabalho
 ### LS - Linguagens Script
 
 Trabalhos
--[SoupadeLetras](https://github.com/Paulitchos/CrossWord-LS) feito por [Paulitchos](https://github.com/Paulitchos) & [Nuno Santos](https://github.com/Nun0Santos) & [Pedro Nogueira](https://github.com/pmsnnogueira) em 2021/2022
+- [SoupadeLetras](https://github.com/Paulitchos/CrossWord-LS) feito por [Paulitchos](https://github.com/Paulitchos) & [Nuno Santos](https://github.com/Nun0Santos) & [Pedro Nogueira](https://github.com/pmsnnogueira) em 2021/2022
 ...
 
 Recursos
