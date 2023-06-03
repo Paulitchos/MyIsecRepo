@@ -117,12 +117,24 @@ Recursos
 Trabalhos
 -  [Rental4You](https://github.com/Paulitchos/Rental4You) feito por [Paulitchos](https://github.com/Paulitchos) e [Salgueirinho](https://github.com/Salgueirinho) em 2022/23
 
+Recursos
+
+- [Aulas Práticas](https://github.com/Paulitchos/Aulas_Pweb), feito por [Paulitchos](https://github.com/Paulitchos) em 2022/23
+
 ### IC - Intelegência Computacional
 
 Trabalhos
 -  [Bitcoin Regression Guesser](https://github.com/Paulitchos/IC-Project) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
 
+Recursos
+
+- [Aulas Práticas](https://github.com/Paulitchos/IC_Praticas), feito por [Paulitchos](https://github.com/Paulitchos) em 2022/23
+
 ### SI2 - Sistemas de Informação II
 
 Trabalhos
 -  [Data_Mining/DataWarehouses](https://github.com/Paulitchos/SI_2_TP) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
+
+Recursos
+
+- [Aulas Práticas](https://github.com/Paulitchos/SI_2_P), feito por [Paulitchos](https://github.com/Paulitchos) em 2022/23
