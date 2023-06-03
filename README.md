@@ -22,6 +22,8 @@ Trabalhos e recursos por ano e unidade curricular
     - [AABD - Arquitetura e Administração de Bases de Dados](#aabd---arquitetura-e-administração-de-bases-de-dados)
   - [3º Ano](#3º-ano)
     - [PWEB - Programação WEB](#pweb---programação-web)
+    - [IC - Intelegência Computacional](#ic---intelegência-computacional)
+    - [SI2 - Sistemas de Informação II](#si2---sistemas-de-informação-ii)
 
 ---
 
@@ -118,3 +120,13 @@ Recursos
 
 Trabalhos
 -  [Rental4You](https://github.com/Paulitchos/Rental4You) feito por [Paulitchos](https://github.com/Paulitchos) e [Salgueirinho](https://github.com/Salgueirinho) em 2022/23
+
+### IC - Intelegência Computacional
+
+Trabalhos
+-  [Bitcoin Regression Guesser](https://github.com/Paulitchos/IC-Project) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
+
+### SI2 - Sistemas de Informação II
+
+Trabalhos
+-  [Bitcoin Regression Guesser](https://github.com/Paulitchos/SI_2_TP) feito por [Paulitchos](https://github.com/Paulitchos) e [Nuno Santos](https://github.com/Nun0Santos) em 2022/23
