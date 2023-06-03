@@ -12,6 +12,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [AM2 - Análise Matemática 2](#am2---análise-matemática-2)
     - [P - Programação](#p---programação)
     - [LS - Linguagens Script](#ls---linguagens-script)
+    - [GES - Gestão](#ges---gestão)
   - [2º Ano](#2º-ano)
     - [BD - Base de Dados](#bd---base-de-dados)
     - [POO - Programação Orientada a Objetos](#poo---programação-orientada-a-objetos)
@@ -59,6 +60,10 @@ Trabalhos
 Recursos
 - [LS-Fichas_Práticas](https://github.com/Paulitchos/LS_Pratica) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/2022
 
+### GES - Gestão
+
+Trabalhos
+-[Gaming Center](https://github.com/Paulitchos/Gestao-P) feito por [Paulitchos](https://github.com/Paulitchos) & [Roberto Tarta](https://github.com/RobertoTarta), [Sérgio Costa](https://github.com/serac01), [Bruno Bebiano](https://github.com/brunobebiano) &  em 2021/2022
 ---
 
 ## 2º Ano
@@ -69,11 +74,6 @@ Trabalhos
 
 - [Astros](https://github.com/Paulitchos/Base_de_Dados) feito por [Paulitchos](https://github.com/Paulitchos), [Jonnas](https://github.com/Yeshey), [Rafael Gil](https://github.com/RafaelSGil) e [Francisco](https://github.com/fraanciscomendes) em 2021/2022
 
-Recursos
-
-- [Fichas_Práticas](https://github.com/Paulitchos/BD_FichasPraticas) feito por [Paulitchos](https://github.com/Paulitchos) em 2021/22
-
-
 ### POO - Programação Orientada a Objetos
 
 Trabalhos
@@ -82,10 +82,6 @@ Trabalhos
 
 Trabalhos
 - [Shape-Recognition-Network](https://github.com/Paulitchos/ShapeClassification-CR) feito por [Paulitchos](https://github.com/Paulitchos) & [Pedro Nogueira](https://github.com/pmsnnogueira) em 2021/22
-
-Recursos
-
-...
 
 ### SO - Sistemas Operativos
 
