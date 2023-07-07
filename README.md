@@ -23,6 +23,7 @@ Trabalhos e recursos por ano e unidade curricular
     - [PWEB - Programação WEB](#pweb---programação-web)
     - [IC - Intelegência Computacional](#ic---intelegência-computacional)
     - [SI2 - Sistemas de Informação II](#si2---sistemas-de-informação-ii)
+    - [ET - Ética](#et---ética)
 
 ---
 
@@ -136,3 +137,9 @@ Trabalhos
 Recursos
 
 - [Aulas Práticas](https://github.com/Paulitchos/SI_2_P), feito por [Paulitchos](https://github.com/Paulitchos) em 2022/23
+
+### ET - Ética
+
+Relatórios
+
+- [Relatórios](https://github.com/Paulitchos/Etica_Relatorios), feito por [Paulitchos](https://github.com/Paulitchos) em 2022/23
